@@ -10,6 +10,7 @@ Run it like this:
     pip install -r requirements-ui.txt
     streamlit run app.py
 """
+import utils.session
 import html
 import json
 import tempfile
