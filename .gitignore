@@ -1,2 +1,10 @@
 config.bat
 node_modules
+.env
+source/.env
+cache/
+output/*.csv
+output/_report.json
+__pycache__/
+*.pyc
+.venv/

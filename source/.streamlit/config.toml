@@ -1,0 +1,11 @@
+# Theme for the optional demo UI (app.py). Visual only — does not affect results.
+[theme]
+base = "light"
+primaryColor = "#6D5EF8"
+backgroundColor = "#F6F7FD"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#141A2E"
+font = "sans serif"
+
+[server]
+headless = true

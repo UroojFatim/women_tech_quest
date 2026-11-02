@@ -1,0 +1,6 @@
+# Extra dependency for the OPTIONAL web UI only (app.py).
+# The scored command-line solution does NOT need this.
+# Install the core requirements first, then this file:
+#   pip install -r requirements.txt
+#   pip install -r requirements-ui.txt
+streamlit==1.58.0
